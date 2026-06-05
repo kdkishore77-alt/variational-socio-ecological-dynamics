@@ -144,7 +144,7 @@ All figures are saved to `OUTPUT_DIR` (default: working directory). Numerical re
 
 If you use this code or data in your research, please cite the manuscript:
 
-> [Author]. (2026). A Variational Framework for Socio-Ecological Dynamics under Ecological Constraint Landscapes. *Ecological Modelling*. [DOI to be assigned]
+> Kishore Dutta. (2026). A Variational Framework for Socio-Ecological Dynamics under Ecological Constraint Landscapes. *Ecological Modelling*. [DOI to be assigned]
 
 ---
 
